@@ -25,7 +25,7 @@ jobs:
         go-version: 1.18
 
     - name: Setup Ruby
-      uses: ruby/setup-ruby@ebaea52cb20fea395b0904125276395e37183dac
+      uses: ruby/setup-ruby@6bd3d993c602f6b675728ebaecb2b569ff86e99b
       with:
         ruby-version: 3.0.0
 
